@@ -1,0 +1,11 @@
+.overall-grid {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: auto auto auto;
+    justify-self: center;
+
+.grid-header {
+    /*display: grid;*/
+    justify-self: center;
+    grid-area: header;
+}
