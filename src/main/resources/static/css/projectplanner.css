@@ -9,3 +9,7 @@
     justify-self: center;
     grid-area: header;
 }
+
+canvas {
+    border: 2px black;
+}
